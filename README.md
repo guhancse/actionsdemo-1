@@ -1,1 +1,1 @@
-GitHub Actions sampple project for Java
+GitHub Actions sample project for Java
